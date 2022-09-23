@@ -1,1 +1,2 @@
 # Travel-Cost-Estimator
+This is a project made by using GUIs in Java and using the OOP fundmentals, this was a group project and my task was to make GUI interface, but once in a while I did help with backend. This project allows user to select a destination in the USA from the list provided and will allow them to choose the method of transportation and will ask for the amount of people traveling. After entering the infomation it will give the total cost for travel and also some miscellaneous cost like gas, hotel, food, etc.
